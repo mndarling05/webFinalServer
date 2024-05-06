@@ -1,0 +1,155 @@
+[{
+    "contestant_id": 197,
+    "contestant_name": "Dawn",
+    "track_record":
+    {
+        "episodes_won": 0,
+        "position": 6,
+        "episode_eliminated": "Episode 12"
+    },
+    "contestant_rating": 0
+},
+{
+    "contestant_id": 198,
+    "contestant_name": "Megami",
+    "track_record":
+    {
+        "episodes_won": 1,
+        "position": 10,
+        "episode_eliminated": "Episode 7"
+    },
+    "contestant_rating": 0
+},
+{
+    "contestant_id": 199,
+    "contestant_name": "Mhi'ya Iman Le'Paige",
+    "track_record":
+    {
+        "episodes_won": 1,
+        "position": 7,
+        "episode_eliminated": "Episode 11"
+    },
+    "contestant_rating": 0
+},
+{
+    "contestant_id": 200,
+    "contestant_name": "Morphine Love Dion",
+    "track_record":
+    {
+        "episodes_won": 0,
+        "position": 5,
+        "episode_eliminated": "Episode 13"
+    },
+    "contestant_rating": 0
+},
+{
+    "contestant_id": 201,
+    "contestant_name": "Nymphia Wind",
+    "track_record":
+    {
+        "episodes_won": 4,
+        "position": 1,
+        "episode_eliminated": "TBA"
+    },
+    "contestant_rating": 0
+},
+{
+    "contestant_id": 202,
+    "contestant_name": "Plane Jane",
+    "track_record":
+    {
+        "episodes_won": 4,
+        "position": 3,
+        "episode_eliminated": "Episode 16"
+    },
+    "contestant_rating": 0
+},
+{
+    "contestant_id": 203,
+    "contestant_name": "Plasma",
+    "track_record":
+    {
+        "episodes_won": 2,
+        "position": 8,
+        "episode_eliminated": "Episode 9"
+    },
+    "contestant_rating": 0
+},
+{
+    "contestant_id": 204,
+    "contestant_name": "Q",
+    "track_record":
+    {
+        "episodes_won": 2,
+        "position": 4,
+        "episode_eliminated": "Episode 14"
+    },
+    "contestant_rating": 0
+},
+{
+    "contestant_id": 205,
+    "contestant_name": "Sapphira Cristal",
+    "track_record":
+    {
+        "episodes_won": 4,
+        "position": 2,
+        "episode_eliminated": "Episode 16"
+    },
+    "contestant_rating": 0
+},
+{
+    "contestant_id": 206,
+    "contestant_name": "Xunami Muse",
+    "track_record":
+    {
+        "episodes_won": 0,
+        "position": 9,
+        "episode_eliminated": "Episode 8"
+    },
+    "contestant_rating": 0
+},
+{
+    "contestant_id": 207,
+    "contestant_name": "Geneva Karr",
+    "track_record":
+    {
+        "episodes_won": 1,
+        "position": 11,
+        "episode_eliminated": "Episode 6"
+    },
+    "contestant_rating": 0
+},
+{
+    "contestant_id": 208,
+    "contestant_name": "Amanda Tori Meating",
+    "track_record":
+    {
+        "episodes_won": 0,
+        "position": 12,
+        "episode_eliminated": "Episode 5"
+    },
+    "contestant_rating": 2
+},
+{
+    "contestant_id": 209,
+    "contestant_name": "Hershii Liqcour-Jete",
+    "track_record":
+    {
+        "episodes_won": 0,
+        "position": 14,
+        "episode_eliminated": "Episode 3"
+    },
+    "contestant_rating": 0
+},
+{
+    "contestant_id": 210,
+    "contestant_name": "Mirage",
+    "track_record":
+    {
+        "episodes_won": 0,
+        "position": 13,
+        "episode_eliminated": "Episode 4"
+    },
+    "contestant_rating": 0
+}
+]

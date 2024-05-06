@@ -1,0 +1,305 @@
+[{
+    "episode_id" : 1601,
+    "title": "Rate-A-Queen",
+    "air_date": "01/05/2024",
+    "synopsis": "A new cast of queens compete to be crowned America's Next Drag Superstar and must show off their performance skills in a talent show; actress Charlize Theron guest judges.",
+    "judges_panel": [
+        "RuPaul", "Michelle Visage", "Carson Kressley", "Charlize Theron"
+    ],
+    "maxi_challenge": "Perform in the MTV Spring Break Talent Show",
+    "runway_theme": "RuVeal Yourself",
+    "lip_sync_song": {
+        "song": "Break My Soul",
+        "artist": "Beyonce"
+    },
+    "bottom_two":[""],
+    "eliminated": "",
+    "maxi_challenge_winner": "Sapphira Cristal",
+    "rating": 0
+},
+{
+    "episode_id" : 1602,
+    "title": "Queen Choice Awards",
+    "air_date": "01/12/2024",
+    "synopsis": "A new cast of queens, competing to be crowned America’s Next Drag Superstar, must show off their performance skills in a talent show. Superstar singer Becky G guest judges.",
+    "judges_panel": [
+        "RuPaul", "Michelle Visage", "Ross Matthews", "Becky G"
+    ],
+    "maxi_challenge": "Perform in the Queen Choice Award Talent Show",
+    "runway_theme": "Made Ya Look",
+    "lip_sync_song":{ 
+        "song": "Shower",
+        "artist": "Becky G"
+    },
+    "bottom_two":[""],
+    "eliminated": "N/A",
+    "maxi_challenge_winner": "Plane Jane",
+    "rating": 0 
+},
+{
+    "episode_id" : 1603,
+    "title": "The Mother of All Balls",
+    "air_date": "01/19/2024",
+    "synopsis": "The two groups of queens meet for the first time. Tensions rise as queens put their design skills to the test in a pageant of mother-inspired couture, and showcase three mom-themed looks. Iconic fashion designer Isaac Mizrahi guest judges.",
+    "judges_panel": [
+        "RuPaul", "Michelle Visage", "Carson Kressley", "Issac Mizrahi"
+    ],
+    "maxi_challenge": "Ball Challenge",
+    "runway_theme": "Mother Goose, Significant Mother, Call Me Mother Eleganza",
+    "lip_sync_song": {
+        "song":"Maybe You're the Problem",
+        "artist": "Ava Max"
+    },
+    "bottom_two":["Geneva Karr", "Hershii LiqCour-Jete"],
+    "eliminated": "Hershii LiqCour-Jete",
+    "maxi_challenge_winner": "Plane Jane",
+    "rating": 0 
+},
+{
+    "episode_id" : 1604,
+    "title": "RDR Live!",
+    "air_date": "01/26/2024",
+    "synopsis": "Live from Tuckahoe, it’s RDR Live! The queens are challenged to serve up laughs in a hilarious send-up of the iconic sketch comedy show. Actress and three-time SNL host Sarah Michelle Gellar (Buffy the Vampire Slayer) guest judges.",
+    "judges_panel": [
+        "RuPaul", "Michelle Visage", "Ross Matthews", "Sarah Michelle Gellar"
+    ],
+    "maxi_challenge": "Perform in a sketch comedy performance of RDR Live",
+    "runway_theme": "Everything Every-Cher All At Once",
+    "lip_sync_song": {
+        "song":"Dark Lady",
+        "artist": "Cher"
+    },
+    "bottom_two":["Geneva Karr", "Mirage"],
+    "eliminated": "Mirage",
+    "maxi_challenge_winner": "Plasma",
+    "rating": 0 
+},
+{
+    "episode_id" : 1605,
+    "title": "Girl Groups",
+    "air_date": "02/02/2024",
+    "synopsis": "The queens are tasked with writing and performing their own verses, for RuPaul songs from his new album Black Butta. Swedish synth-pop duo Icona Pop guest judge.",
+    "judges_panel": [
+        "RuPaul", "Michelle Visage", "Ts Madison", "Caroline Hjelt", "Aino Jawo"
+    ],
+    "maxi_challenge": "Create girl groups and original verses for songs from RuPaul's Black Butta",
+    "runway_theme": "Faster Pussycat! Wig, Wig!",
+    "lip_sync_song": {
+        "song":"Emergency",
+        "artist": "Icona Pop"
+    },
+    "bottom_two":["Amanda Tori Meeting", "Q"],
+    "eliminated": "Amanda Tori Meeting",
+    "maxi_challenge_winner": "Geneva Karr, Megami, Mhi'ya Iman LePaige, Nymphia",
+    "rating": 0 
+},
+{
+    "episode_id" : 1606,
+    "title": "Welcome to The DollHouse",
+    "air_date": "02/09/2024",
+    "synopsis": "After a flamenco dance with Spanish sensation Charo, the queens must design their own dolls, based on their drag personas. Superstar stylist Law Roach (Legendary) guest judges.",
+    "judges_panel": [
+        "RuPaul", "Michelle Visage", "Ts Madison", "Law Roach"
+    ],
+    "maxi_challenge": "Create a look and a matching look for an original doll",
+    "runway_theme": "Welcome to the Dollhouse",
+    "lip_sync_song": {
+        "song":"Control",
+        "artist": "Janet Jackson"
+    },
+    "bottom_two":["Geneva Karr", "Mhi'ya Iman LePaige"],
+    "eliminated": "Geneva Karr",
+    "maxi_challenge_winner": "Q",
+    "rating": 0 
+},
+{
+    "episode_id" : 1607,
+    "title": "The Sound of Rusic",
+    "air_date": "02/16/2024",
+    "synopsis": "This season’s Rusical is set high in the Swish Alps, as a young queen called Mariah goes in search of a musical outlet for her inner freak. Legendary director Adam Shankman (Hairspray) guest judges.",
+    "judges_panel": [
+        "RuPaul", "Michelle Visage", "Ross Matthews", "Adam Shankman"
+    ],
+    "maxi_challenge": "Perform in the Rusical 'The Sound of Rusic'",
+    "runway_theme": "I Could Buy Myself Flowers",
+    "lip_sync_song": {
+        "song":"Flowers",
+        "artist": "Miley Cyrus"
+    },
+    "bottom_two":["Megami", "Mhi'ya Iman LePaige"],
+    "eliminated": "Megami",
+    "maxi_challenge_winner": "Plasma",
+    "rating": 0 
+},
+{
+    "episode_id" : 1608,
+    "title": "Snatch Game",
+    "air_date": "02/23/2024",
+    "synopsis": "After the iconic Reading challenge, the queens impersonate celebrities in the classic quick-fire comedy game show. All Stars winner Chad Michaels drops by the werkroom; actress Kyra Sedgwick (The Closer) guest judges.",
+    "judges_panel": [
+        "RuPaul", "Michelle Visage", "Carson Kressley", "Kyra Sedgwick"
+    ],
+    "maxi_challenge": "Snatch Game",
+    "runway_theme": "Dancing Queens",
+    "lip_sync_song": {
+        "song":"I Wanna Dance With Somebody",
+        "artist": "Whitney Houston"
+    },
+    "bottom_two":["Morphine Love Dion", "Xunami Muse"],
+    "eliminated": "Xunami Muse",
+    "maxi_challenge_winner": "Plane Jane",
+    "rating": 0 
+},
+{
+    "episode_id" : 1609,
+    "title": "See You Next Wednesday",
+    "air_date": "03/01/2024",
+    "synopsis": "Morticia meets Mugler as the queens create a Neo-Goth look from scratch, using only black, white and gray fabric. Drop dead gorgeous model and actress Kaia Gerber (Bottoms) guest judges.",
+    "judges_panel": [
+        "RuPaul", "Michelle Visage", "Carson Kressley", "Kaia Gerber"
+    ],
+    "maxi_challenge": "Design a neo-goth look using only black, white, and gray fabric",
+    "runway_theme": "See You Next Wednesday",
+    "lip_sync_song": {
+        "song":"Bloody Mary (Wednesday Dance TikTok Remix)",
+        "artist": "Lady Gaga"
+    },
+    "bottom_two":["Mhi'ya Iman LePaige", "Plasma"],
+    "eliminated": "Plasma",
+    "maxi_challenge_winner": "Q",
+    "rating": 0 
+},
+{
+    "episode_id" : 1610,
+    "title": "Werq the World",
+    "air_date": "03/08/2024",
+    "synopsis": "The queens let their voices be heard in an inspirational political anthem, and exercise their right to shake their groove thing. Choreographer Jamal Sims (Aladdin) guest judges.",
+    "judges_panel": [
+        "RuPaul", "Michelle Visage", "Ross Matthews", "Jamal Sims"
+    ],
+    "maxi_challenge": "Write and record verses for political anthem 'Power'",
+    "runway_theme": "True Colors",
+    "lip_sync_song": {
+        "song":"Made You Look",
+        "artist": "Meghan Trainor"
+    },
+    "bottom_two":[""],
+    "eliminated": "N/A",
+    "maxi_challenge_winner": "Sapphira Cristal",
+    "rating": 0 
+},
+{
+    "episode_id" : 1611,
+    "title": "Corporate Queens",
+    "air_date": "03/15/2024",
+    "synopsis": "The queens must devise and present comical Drag Awareness seminars, in front of a live audience of bored corporate employees. Actor and comedian Joel Kim Booster (Fire Island) guest judges",
+    "judges_panel": [
+        "RuPaul", "Michelle Visage", "Ross Matthews", "Joel Kim Booster"
+    ],
+    "maxi_challenge": "Present funny Drag Awareness Employee Seminars in teams",
+    "runway_theme": "Flashback: DragCon 1980",
+    "lip_sync_song": {
+        "song":"Dim All The Lights",
+        "artist": "Donna Summer"
+    },
+    "bottom_two":["Mhi'ya Iman LePaige", "Morphine Love Dion"],
+    "eliminated": "Mhi'ya Iman LePaige",
+    "maxi_challenge_winner": "Sapphira Cristal",
+    "rating": 0 
+},
+{
+    "episode_id" : 1612,
+    "title": "Bathroom Hunties",
+    "air_date": "03/22/2024",
+    "synopsis": "Nature calls! The queens star in the hot new design show “Bathroom Hunties,” decorating and showcasing over-the-top powder rooms. Actress Mayan Lopez (Lopez vs Lopez) guest judges.",
+    "judges_panel": [
+        "RuPaul", "Michelle Visage", "Carson Kressley", "Mayan Lopez"
+    ],
+    "maxi_challenge": "Design a gender inclusive bathroom for a nightclub on the fictional show 'Bathroom Hunties'",
+    "runway_theme": "Chain Reaction",
+    "lip_sync_song": {
+        "song":"Body",
+        "artist": "Meghan Thee Stallion"
+    },
+    "bottom_two":["Dawn", "Morphine Love Dion"],
+    "eliminated": "Dawn",
+    "maxi_challenge_winner": "Plane Jane, Sapphira Cristal",
+    "rating": 0 
+},
+{
+    "episode_id" : 1613,
+    "title": "Drag Race Vegas LIVE! Makeovers",
+    "air_date": "03/29/2024",
+    "synopsis": "Hunky male dancers from the RuPaul’s Drag Race LIVE! show in Las Vegas drop by the werkroom, to be made over into devastating drag queens. Country star Kelsea Ballerini guest judges.",
+    "judges_panel": [
+        "RuPaul", "Michelle Visage", "Ts Madison", "Kelsea Ballerini"
+    ],
+    "maxi_challenge": "Make over dancers from RuPauls Drag Race LIVE! and choreograph a duet dance",
+    "runway_theme": "Drag Family Resemblance",
+    "lip_sync_song": {
+        "song":"Miss Me More",
+        "artist": "Kelsea Ballerini"
+    },
+    "bottom_two":["Sapphira Cristal", "Morphine Love Dion"],
+    "eliminated": "Morphine Love Dion",
+    "maxi_challenge_winner": "Plane Jane",
+    "rating": 0 
+},
+{
+    "episode_id" : 1614,
+    "title": "Booked and Blessed",
+    "air_date": "04/06/2024",
+    "synopsis": "The queens dig deep and write their memoirs, pose for a book cover photo shoot, and are grilled by co-host of Las Culturistas podcast Matt Rogers. Journalist and author Ronan Farrow (Catch and Kill) guest judges.",
+    "judges_panel": [
+        "RuPaul", "Michelle Visage", "Ts Madison", "Ronan Farrow"
+    ],
+    "maxi_challenge": "Write a memoir, pose for the cover, and participate in an podcast interview.",
+    "runway_theme": "Fandango",
+    "lip_sync_song": {
+        "song":"Better Be Good to Me",
+        "artist": "Tina Turner"
+    },
+    "bottom_two":["Plane Jane", "Q"],
+    "eliminated": "Q",
+    "maxi_challenge_winner": "Nymphia",
+    "rating": 0 
+},
+{
+    "episode_id" : 1615,
+    "title": "Lipsync Lalaparuza Smackdown - Reunited",
+    "air_date": "04/12/2024",
+    "synopsis": "All the eliminated queens return to battle it out in a LipSync Lalaparuza Smackdown, with nine lip syncs and a cash prize of $50,000 on the line.",
+    "judges_panel": [
+        "RuPaul", "Michelle Visage", "Ts Madison"
+    ],
+    "maxi_challenge": "The eliminated contestants face off in a lip sync smackdown",
+    "runway_theme": "",
+    "lip_sync_song": {
+        "song":"",
+        "artist": ""
+    },
+    "bottom_two":[""],
+    "eliminated": "N/A",
+    "maxi_challenge_winner": "Morphine Love Dion",
+    "rating": 0 
+},
+{
+    "episode_id" : 1616,
+    "title": "Grand Finale",
+    "air_date": "04/19/2024",
+    "synopsis": "The top queens face off in an epic evening of performances and lip syncs, as they compete for the title of America’s Next Drag Superstar and a grand prize of $200,000.",
+    "judges_panel": [
+        "RuPaul", "Michelle Visage", "Ts Madison", "Carson Kressley", "Ross Matthews"
+    ],
+    "maxi_challenge": "The top 3 perform in individual show-stopping original numbers",
+    "runway_theme": "Grande Finale Extravaganza",
+    "lip_sync_song": {
+        "song":"Padam Padam",
+        "artist": "Kylie Monique"
+    },
+    "bottom_two":[""],
+    "eliminated": "Plane Jane",
+    "maxi_challenge_winner": "Nymphia Wind",
+    "rating": 0 
+}
+]
