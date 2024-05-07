@@ -1,7 +1,6 @@
 const express = require('express')
 
 const{
-    getAllRatings,
     getAllContestantRatingsFromUser,
     getAllEpisodeRatingsFromUser,
     addNewUserRating,
@@ -13,27 +12,23 @@ const{
 const requireAuth = require('../middleware/requireAuth')
 const router = express.Router()
 
-router.use(requireAuth)
-
-//get all ratings
-router.get('/', getAllRatings)
 
 //get a users ratings for episodes
-router.get('/episodes/:id', getAllEpisodeRatingsFromUser)
+router.get('/episodes/:id', requireAuth, getAllEpisodeRatingsFromUser)
 
 //get a users ratings for contestants
-router.get('/contestants/:id', getAllContestantRatingsFromUser)
+router.get('/contestants/:id', requireAuth, getAllContestantRatingsFromUser)
 
 //add user ratings
 router.post('/', addNewUserRating)
 
 //delete user ratings
-router.delete('/:id', deleteUserRating)
+router.delete('/:id', requireAuth, deleteUserRating)
 
 //update a users episode rating
-router.patch('/episode/', updateUserEpisodeRating)
+router.patch('/episode/', requireAuth, updateUserEpisodeRating)
 
 //update a users contestant rating
-router.patch('/contestant/', updateUserContestantRating)
+router.patch('/contestant/', requireAuth, updateUserContestantRating)
 
 module.exports = router

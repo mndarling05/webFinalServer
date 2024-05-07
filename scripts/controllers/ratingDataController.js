@@ -4,12 +4,6 @@ const Contestant = require('../models/contestantModel')
 
 const mongoose = require('mongoose')
 
-//get all ratings
-const getAllRatings = async(req, resp) => {
-    const ratings = await Ratings.find()
-
-    resp.status(200).json(ratings)
-}
 //get all Contestant Ratings
 const getAllContestantRatingsFromUser = async(req, resp) => {
     const {id} = req.params 
@@ -63,14 +57,17 @@ const addNewUserRating = async (req, resp) => {
     try{
 
     if(!mongoose.Types.ObjectId.isValid(user_id)){
+        console.log("invalid")
         return resp.status(400).json({error: "Invalid"})
     }
     if(!user_id){
+        console.log("no userid")
         return resp.status(400).json({error: 'Please include user_id'})
     }
     //check if rating profile for user already exists
     const existingRating = await Ratings.findOne({user_id:user_id})
     if(existingRating){
+        console.log("existing")
         return resp.status(400).json({error: `Rating profile for user already exists`})
     }
     //add to our collection
@@ -241,7 +238,6 @@ const averageContestantRatings = async () => {
     }
 }
 module.exports = {
-    getAllRatings,
     getAllEpisodeRatingsFromUser,
     getAllContestantRatingsFromUser,
     addNewUserRating,
