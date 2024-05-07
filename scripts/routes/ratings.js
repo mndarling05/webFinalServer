@@ -12,7 +12,6 @@ const{
 const requireAuth = require('../middleware/requireAuth')
 const router = express.Router()
 
-
 //get a users ratings for episodes
 router.get('/episodes/:id', requireAuth, getAllEpisodeRatingsFromUser)
 
